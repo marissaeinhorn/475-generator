@@ -75,9 +75,8 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
    ```sh
    python3 ./475-generator.py
    ```
-4. Review
+4. ???
 5. Profit. Sign your 475s.
-6. Upload to VPC
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
