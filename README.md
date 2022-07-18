@@ -39,15 +39,15 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 
 ### Prerequisites
 
-* [Git](https://git-scm.com/downloads) Follow the GUI installer - leave defaults
-* [Anaconda](https://www.anaconda.com/) Follow the GUI installer - ensure you select Add Anaconda to PATH environment variable option on the Advanced Installation Options Page
-* [Python3](https://www.python.org/downloads/)
-* [Pip](https://pip.pypa.io/en/stable/installation/)
+* [Git](https://git-scm.com/downloads): Follow the GUI installer - leave defaults
+* [Anaconda](https://www.anaconda.com/): Follow the GUI installer - ensure you select Add Anaconda to PATH environment variable option on the Advanced Installation Options Page
+* [Python3](https://www.python.org/downloads/): Follow the GUI installer - leave defaults
+* [Pip](https://pip.pypa.io/en/stable/installation/): 
 
 
 ### Installation
 
-1. Ensure Python3 & Anaconda are installed on your system.
+1. Ensure Python3, Anaconda, Git and Pip are installed on your system.
 2. Install fillpdf
    ```sh
    pip install fillpdf 
