@@ -39,10 +39,10 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 
 ### Prerequisites
 
-* Git (https://git-scm.com/downloads) Follow the GUI installer - leave defaults
-* Anaconda (https://www.anaconda.com/) Follow the GUI installer - ensure you select `Add Anaconda to PATH environment variable` option on the Advanced Installation Options Page
-* Python3 (https://www.python.org/downloads/)
-* Pip (https://pip.pypa.io/en/stable/installation/)
+* [Git](https://git-scm.com/downloads) Follow the GUI installer - leave defaults
+* [Anaconda](https://www.anaconda.com/) Follow the GUI installer - ensure you select Add Anaconda to PATH environment variable option on the Advanced Installation Options Page
+* [Python3](https://www.python.org/downloads/)
+* [Pip](https://pip.pypa.io/en/stable/installation/)
 
 
 ### Installation
