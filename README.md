@@ -40,8 +40,9 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 ### Prerequisites
 
 * Git (https://git-scm.com/downloads) Follow the GUI installer - leave defaults
-* Anaconda (https://www.anaconda.com/) Follow the GUI installer - ensure you select 
+* Anaconda (https://www.anaconda.com/) Follow the GUI installer - ensure you select `Add Anaconda to PATH environment variable` option on the Advanced Installation Options Page
 * Python3 (https://www.python.org/downloads/)
+* Pip (https://pip.pypa.io/en/stable/installation/)
 
 
 ### Installation
@@ -65,7 +66,7 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 
 <p align="center"><img src="/usage.gif" width="50%" height="50%"/></p>
 
-1. Clone the repo 
+1. Clone the repo in git CMD shell
    ```sh
    git clone https://github.com/johnd010/475-generator.git  
    ```
@@ -74,8 +75,9 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
    ```sh
    python3 ./475-generator.py
    ```
-4. ???
+4. Review
 5. Profit. Sign your 475s.
+6. Upload to VPC
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
