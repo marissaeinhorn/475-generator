@@ -70,7 +70,7 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
    ```sh
    git clone https://github.com/johnd010/475-generator.git  
    ```
-2. Fill in student-info.csv as desired. Note: for checkboxes the value is "Off" or "Yes".
+2. Change name of template sierra-student-info.csv or delta-student-info.csv to student-info.csv.  Fill in student-info.csv as desired. Note: for checkboxes the value is "Off" or "Yes".
 4. Run the python script
    ```sh
    python3 ./475-generator.py
