@@ -39,14 +39,16 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 
 ### Prerequisites
 
-* Anaconda (https://www.anaconda.com/)
-* Python3 (https://www.python.org/downloads/)
+* [Git](https://git-scm.com/downloads): Follow the GUI installer - leave defaults
+* [Anaconda](https://www.anaconda.com/): Follow the GUI installer - ensure you select Add Anaconda to PATH environment variable option on the Advanced Installation Options Page
+* [Python3](https://www.python.org/downloads/): Follow the GUI installer - leave defaults
+* [Pip](https://pip.pypa.io/en/stable/installation/)
 
 
 ### Installation
 
-1. Ensure Python3 & Anaconda are installed on your system.
-2. Install fillpdf
+1. Ensure Python3, Anaconda, Git and Pip are installed on your system.
+2. From Powershell, Install fillpdf
    ```sh
    pip install fillpdf 
    ```
@@ -64,11 +66,11 @@ Using 475-Generator is as simple as filling in the fields for as many rows as yo
 
 <p align="center"><img src="/usage.gif" width="50%" height="50%"/></p>
 
-1. Clone the repo 
+1. Clone the repo in git CMD shell
    ```sh
    git clone https://github.com/johnd010/475-generator.git  
    ```
-2. Fill in student-info.csv as desired. Note: for checkboxes the value is "Off" or "Yes".
+2. Change name of the template `sierra-student-info.csv` or `delta-student-info.csv` to `student-info.csv`.  Fill in `student-info.csv` with students names, SSN and grades. Note: for checkboxes the value is "Off" or "Yes".
 4. Run the python script
    ```sh
    python3 ./475-generator.py
